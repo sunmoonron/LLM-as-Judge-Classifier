@@ -65,7 +65,7 @@ The firewall ships with 10 pre-built attack vectors spanning the injection taxon
 
 ---
 
-## 🔓 Bypass Gallery — Where the Firewall Fails
+## 🔓 Bypass Gallery (Where the Firewall Fails)
 
 **This is the interesting part.** The following prompts bypass the classifier entirely or receive insufficient risk ratings. Each reveals a structural limitation of the LLM-as-Judge architecture.
 
